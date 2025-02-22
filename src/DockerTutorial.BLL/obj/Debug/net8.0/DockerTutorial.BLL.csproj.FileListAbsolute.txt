@@ -1,0 +1,15 @@
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\bin\Debug\net8.0\DockerTutorial.BLL.deps.json
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\bin\Debug\net8.0\DockerTutorial.BLL.dll
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\bin\Debug\net8.0\DockerTutorial.BLL.pdb
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\bin\Debug\net8.0\DockerTutorial.DLL.dll
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\bin\Debug\net8.0\DockerTutorial.DLL.pdb
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.csproj.AssemblyReference.cache
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.AssemblyInfoInputs.cache
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.AssemblyInfo.cs
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTu.B8467ECB.Up2Date
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.dll
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\refint\DockerTutorial.BLL.dll
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\DockerTutorial.BLL.pdb
+C:\Users\Simphiwe\Desktop\asp-net-core-8-docker\src\DockerTutorial.BLL\obj\Debug\net8.0\ref\DockerTutorial.BLL.dll

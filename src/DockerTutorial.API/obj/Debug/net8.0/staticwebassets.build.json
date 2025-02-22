@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1fDsF4gJOcvlOqlu12LDj1RVBXlBK1uaQwjPgeeHbfs=",
+  "Source": "DockerTutorial.API",
+  "BasePath": "_content/DockerTutorial.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
